@@ -6,7 +6,7 @@ I love solving my daily problems and the [leetcode](https://leetcode.com/) probl
 
 ---
 
-🔨 Techs & Tools acquired 
+### 🔨 Techs & Tools acquired  
 
 ![C](https://img.shields.io/badge/C%20Programming-black?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,7 +17,7 @@ I love solving my daily problems and the [leetcode](https://leetcode.com/) probl
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)
 
-🌱 Currently learning 
+### 🌱 Currently learning 
 
 ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![php](https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php)
