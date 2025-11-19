@@ -8,7 +8,7 @@ I love solving my daily problems and the [leetcode](https://leetcode.com/) probl
 
 ## 🔨 Techs & Tools acquired  
 
-![C](https://img.shields.io/badge/C%20Programming-black?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/Programming-black?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
