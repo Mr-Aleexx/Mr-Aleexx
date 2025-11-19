@@ -4,6 +4,7 @@ I am a student in Le Havre, France and I love the C programming language !
 
 I love solving my daily problems and the [leetcode](https://leetcode.com/) problems
 
+---
 
 🔨 Techs & Tools acquired 
 
