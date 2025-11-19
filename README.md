@@ -2,10 +2,10 @@
 
 I am a student in Le Havre, France and I love the C programming language !
 
-I love solving my daily problems and solving the [leetcode](https://leetcode.com/) problems
+I love solving my daily problems and the [leetcode](https://leetcode.com/) problems
 
 
-Techs & Tools acquired 🔨 
+🔨 Techs & Tools acquired 
 
 ![C](https://img.shields.io/badge/C%20Programming-black?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
