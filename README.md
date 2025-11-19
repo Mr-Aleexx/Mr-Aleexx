@@ -1,5 +1,9 @@
 ## Hi there 👋
 
-I am a student in Le Havre, France and I love the c programming language !
+I am a student in Le Havre, France and I love the C programming language !
 
-I love solving my daily problems
+I love solving my daily problems and solving the [leetcode](https://leetcode.com/) problems
+
+
+Techs & Tools acquired 🔨
+![C](https://commons.wikimedia.org/wiki/File:C_Logo.png)
