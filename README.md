@@ -21,6 +21,7 @@ I love solving my daily problems and the [leetcode](https://leetcode.com/) probl
 ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![php](https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php)
 
-📊
+## 📊 Stats because it looks cool
+
 ![Stats de Alex](https://github-readme-stats.vercel.app/api?username=Mr-Aleexx&show_icons=true&theme=tokyonight)
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aleexx&layout=compact&theme=tokyonight)
