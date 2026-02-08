@@ -23,5 +23,5 @@ I love solving my daily problems and the [leetcode](https://leetcode.com/) probl
 
 ## 📊 Stats because it looks cool
 
-![Stats de Alex](https://github-readme-stats.vercel.app/api?username=Mr-Aleexx&show_icons=true&theme=tokyonight)
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aleexx&layout=compact&theme=tokyonight)
+![Alex stats](https://github-readme-stats.vercel.app/api?username=Mr-Aleexx&show_icons=true&theme=tokyonight)
+![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aleexx&layout=compact&theme=tokyonight)
